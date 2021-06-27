@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Nishita Bhagat</h1>
-<h3 align="center">I'm a passionate engineering graduate specialised in computer science. Enthusiastic in Data science and web development. Looking for opportunities to work in Reputed Innovative Companies. Fascinated in solving problems and accepting new challenges.</h3>
+![header](https://user-images.githubusercontent.com/45730505/123542321-b77d2480-d766-11eb-839b-b30facb5a0bd.png)
+
+<h4 align="center">I'm a passionate engineering graduate specialised in computer science. Enthusiastic in Data science and web development. Looking for opportunities to work in Reputed Innovative Companies. Fascinated in solving problems and accepting new challenges.</h4>
 
 - 🔭 I’m currently working on **Data Science, Machine Learning and MySQL**
 
@@ -29,3 +30,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishita-bhagat&show_icons=true&locale=en&layout=compact" alt="nishita-bhagat" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishita-bhagat&" alt="nishita-bhagat" /></p>
+
+![unnamed](https://user-images.githubusercontent.com/45730505/123542296-8b61a380-d766-11eb-841e-9cfbd72fc6c5.png)
+
+
