@@ -1,35 +1,67 @@
-![header](https://user-images.githubusercontent.com/45730505/123542321-b77d2480-d766-11eb-839b-b30facb5a0bd.png)
+<h1><p align="center">Hello, I'm Nishita Bhagat! <a href="https://github.com/Nishita-Bhagat/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
 
-<h4 align="center">I'm a passionate engineering graduate specialised in computer science. Enthusiastic in Data science and web development. Looking for opportunities to work in Reputed Innovative Companies. Fascinated in solving problems and accepting new challenges.</h4>
+<p align="center" ><img 
+ src="https://user-images.githubusercontent.com/22797857/90096298-b90f4b00-dd54-11ea-9a31-00ad53f8ec04.gif?raw=true" width="40%" height="40%"/></p>
 
-- 🔭 I’m currently working on **Data Science, Machine Learning and MySQL**
 
-- 🌱 I’m currently learning **Java, Web Development and Machine Learning Algorithm**
+<p align="center">I'm a student developer.<br/>A passionate engineering graduate specialised in computer science.<br>Enthusiastic in Data science and Machine Learning.<br></p><br/>
 
-- 👯 I’m looking to collaborate on **Python Development, Data Science**
+<p align = "center"><a href="https://www.buymeacoffee.com/nishita.bhagat"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="nishita.bhagat" /></a></p><br><br>
 
-- 🤝 I’m looking for help with **Full time job opportunity**
+<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
+                width="28" /> What I currently do</h2></summary>
 
-- 💬 Ask me about **Python**
-
+- 🔭 I'm working on some secret stuff.
+- 🌱 I’m currently learning **Java and Machine Learning algorithms.**
+- 👯 I’m looking to collaborate on **Python Development and Data Science projects.**
+- 🤔 I’m looking for help with **Full Time Job opportunity.**
+- 💬 Ask me about **Python Development and any tech-related stuffs.**
 - 📫 How to reach me **nbbhagat136@gmail.com**
-
 - ⚡ Fun fact **I think I'm artistic**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/nishita99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nishita99" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nishita-bhagat-creative" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishita-bhagat-creative" height="30" width="40" /></a>
-<a href="https://instagram.com/that.doodler.artist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="that.doodler.artist" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/nbbhagat136" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nbbhagat136" height="30" width="40" /></a>
+
+<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
+                width="28" /> To connect with me</h2></summary>
+
+<p align = "center">
+ 
+[<img src="https://img.shields.io/badge/hackerrank-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://www.hackerrank.com/nbbhagat136) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nishita-bhagat-creative/)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/that.doodler.artist/)
+[<img src="https://img.shields.io/badge/github-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://github.com/Nishita-Bhagat)
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="center"
+                width="28" /> My Github Stats</h2> </summary>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishita-bhagat&show_icons=true&locale=en&layout=compact" alt="nishita-bhagat" /></p>
+<br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishita-bhagat&" alt="nishita-bhagat" /></p>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Nishita-Bhagat&show_icons=true&count_private=true&theme=vue&hide=issues&line_height=32">
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Nishita-Bhagat&">
+</p>
 
+<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" align="center"
+                width="28" /> My Tools</h2></summary>
 
+<br>
+
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original.svg" alt="JavaScript" height="25" />    
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MongoDB" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/scipy-original.svg" alt="Linux" height="25" />   
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />   
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-original-wordmark.svg" alt="MySQL" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/numpy.svg" alt="Nginx" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pandas-icon.svg" alt="Bash" height="25" />  
+  
+</div>  
+-----
+Credits: [Nishita-Bhagat](https://github.com/Nishita-Bhagat)
 
