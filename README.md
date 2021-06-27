@@ -31,6 +31,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishita-bhagat&" alt="nishita-bhagat" /></p>
 
-![unnamed](https://user-images.githubusercontent.com/45730505/123542296-8b61a380-d766-11eb-841e-9cfbd72fc6c5.png)
 
 
